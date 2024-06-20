@@ -13,3 +13,40 @@ body {
   padding: 30px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
 }
+
+a {
+  color: #b1e1f8;
+}
+
+header {
+  border-bottom: 1px solid #d8e9f2;
+  padding: 0 0 30px 0;
+}
+
+.search-form-input {
+  background-color: #b1e1f8;
+
+  width: 80%;
+  border-radius: 6px;
+  border: none;
+  font-size: 16px;
+  padding: 15px 20px;
+}
+
+.search-form-button {
+  background-color: #b1e1f8;
+  color: white;
+  border-radius: 6px;
+  border: none;
+  font-size: 16px;
+  padding: 15px 30px;
+  margin-left: 5px;
+}
+
+footer {
+  border-top: 1px solid #d8e9f2;
+  padding: 30px 0 0 0;
+  text-align: center;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.6);
+}
