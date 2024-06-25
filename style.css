@@ -125,6 +125,26 @@ main {
   color: #ffffff;
 }
 
+.weather-forecast {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  color: rgba(39, 33, 66, 0.7);
+  font-weight: 500;
+}
+
+.weather-forecast-icon {
+  font-size: 35px;
+}
+
+.weather-forecast-temperatures {
+  font-size: 14px;
+  color: #ffffff;
+}
+
 footer {
   border-top: 1px solid #b3bdd7;
   padding: 30px 0 0 0;
